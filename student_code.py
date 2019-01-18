@@ -1,3 +1,3 @@
 def shouldReturnTrue():
-	return 1
+	return True
 
